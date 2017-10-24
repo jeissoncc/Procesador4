@@ -1,0 +1,2 @@
+vhdtdtfi -prj Procesador4 -o "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador4/Procesador4/WM.vhi" -module WM -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work WM.vhd 
+vhdtdtfi -prj Procesador4 -o "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador4/Procesador4/WM.vhi" -module WM -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work WM.vhd 
